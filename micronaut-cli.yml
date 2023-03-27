@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-r2dbc, http-client, jackson-databind, java, java-application, junit, logback, lombok, mariadb, maven, netty-server, r2dbc, readme, shade, test-resources, yaml]
